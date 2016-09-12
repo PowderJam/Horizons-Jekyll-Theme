@@ -651,6 +651,14 @@
 			text-align: center;
 			color: inherit;
 		}
+		
+		#footer .contact {
+			margin-top: 3em;
+			padding-top: 3em;
+			border-color: rgba(192, 192, 192, 0.15);
+			text-align: center;
+			color: inherit;
+		}
 
 		#footer a {
 			color: inherit;
