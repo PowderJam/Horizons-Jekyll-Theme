@@ -471,9 +471,9 @@
 /* Header */
 
 	#header {
-		background: #fff url("../images/powderjam.gif") no-repeat;
+		background: #fefefe url("../images/powderjam.gif") no-repeat;
 		background-size: cover;
-		color: #fff;
+		color: #F60008;
 		padding: 6em 0;
 		text-align: center;
 		background-position: 0% 65%;
