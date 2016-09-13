@@ -478,8 +478,11 @@
 		text-align: center;
 		background-position: 0% 65%;
 		position: relative;
+		margin-top: 30px;
+		margin-bottom: 30px;
 	}
 
+		/*
 		#header:before {
 			content: '';
 			position: absolute;
@@ -490,12 +493,13 @@
 			background: rgba(255, 255, 255, 0);
 			padding-top: 20px;
 			padding-bottom: 20px;
-		}
+		} 
 
 		#header > * {
 			position: relative;
 			z-index: 1;
-		}
+		} 
+		*/
 
 	.homepage #header {
 		padding: 8em 0;
