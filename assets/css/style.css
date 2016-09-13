@@ -505,7 +505,7 @@
 	}
 
 	#nav > ul {
-		margin: 0;
+		margin: 20px;
 	}
 
 		#nav > ul > li {
@@ -526,7 +526,7 @@
 			}
 
 			#nav > ul > li:hover a {
-				color: #fff;
+				color: #91F2FD;
 			}
 
 			#nav > ul > li.active {
