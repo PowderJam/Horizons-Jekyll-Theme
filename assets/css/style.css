@@ -506,6 +506,8 @@
 
 	#nav > ul {
 		margin-bottom: 10px;
+		text-align: center;
+		background: rgba(255, 255, 255, 0);
 	}
 
 		#nav > ul > li {
@@ -518,7 +520,7 @@
 			#nav > ul > li a {
 				color: #F60008;
 				text-decoration: none;
-				font-size: 1.2em;
+				font-size: 2em;
 			}
 
 			#nav > ul > li:first-child {
