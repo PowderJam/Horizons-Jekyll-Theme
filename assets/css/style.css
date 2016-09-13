@@ -505,11 +505,10 @@
 	}
 
 	#nav > ul {
-		margin: 0;
+		margin-top: 100px;
 	}
 
 		#nav > ul > li {
-			border-top: 40px;
 			border-radius: 10px 10px 0 0;
 			display: inline-block;
 			margin-left: 0.5em;
