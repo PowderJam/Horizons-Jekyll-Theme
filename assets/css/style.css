@@ -689,4 +689,17 @@
 .navLink { 
     font-family: "GreatDayBold", Verdana, Tahoma;
 }
+
+/*Team*/
+.madeBy{
+  font-style:italic;
+}
+
+.authorName{
+  font-weight:bold;
+}
+.doc{
+  background-color:#FAEBD7;
+}
+
 /*end*/
