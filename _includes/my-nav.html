@@ -1,10 +1,9 @@
 <!-- Nav -->
 	<nav id="nav">
 		<ul>
-			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="/index.html">Home</a></li>
-			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="/inventaire.html">Inventaire</a></li>
-			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="/references.html">References</a></li>
-			<li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}><a href="/team.html">Team</a></li>
+			<li class='navLink'><a href="/index.html">Home</a></li>
+			<li class='navLink'><a href="/inventaire.html">Inventaire</a></li>
+			<li class='navLink'><a href="/references.html">References</a></li>
+			<li class='navLink'><a href="/team.html">Team</a></li>
 		</ul>
 	</nav>
