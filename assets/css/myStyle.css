@@ -8,6 +8,6 @@
     src: url(/assets/fonts/Great Day bold.ttf) format("truetype");
 }
 
-nav { 
+.navLink { 
     font-family: "GreatDayBold", Verdana, Tahoma;
 }
