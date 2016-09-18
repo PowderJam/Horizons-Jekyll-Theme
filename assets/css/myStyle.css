@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "GreatDay";
+    src: url(/assets/fonts/Great Day.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "GreatDayBold";
+    src: url(/assets/fonts/Great Day bold.ttf) format("truetype");
+}
+
+nav { 
+    font-family: "GreatDayBold", Verdana, Tahoma;
+}
