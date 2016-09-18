@@ -6,6 +6,23 @@
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
 
+
+/*personal modif, to be in another file later...*/
+@font-face {
+    font-family: "GreatDay";
+    src: url(/assets/fonts/Great Day.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "GreatDayBold";
+    src: url(/assets/fonts/Great Day bold.ttf) format("truetype");
+}
+
+.navLink { 
+    font-family: "GreatDayBold", Verdana, Tahoma;
+}
+/*end*/
+
 /* Basic */
 
 	body {
