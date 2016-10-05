@@ -731,5 +731,12 @@ hr.team {
   border-bottom: 1px solid #FFF;
 }
 
+/* Affiche */
+
+.afficheImg img {
+	float: center;
+	height: 80%;
+	width: auto;
+}
 
 /*end*/
