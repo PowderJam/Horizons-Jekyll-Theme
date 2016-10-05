@@ -733,9 +733,8 @@ hr.team {
 
 /* Affiche */
 
-.afficheImg img {
-	float: center;
-	position: relative;
+.centrage {
+	text-align: center;
 	max-height: 90%;
 	width: auto;
 }
