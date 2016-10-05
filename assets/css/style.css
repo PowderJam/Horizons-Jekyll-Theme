@@ -735,7 +735,8 @@ hr.team {
 
 .afficheImg img {
 	float: center;
-	height: 80%;
+	position: relative;
+	max-height: 90%;
 	width: auto;
 }
 
