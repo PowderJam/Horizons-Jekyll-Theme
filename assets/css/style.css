@@ -734,9 +734,8 @@ hr.team {
 /* Affiche */
 
 .centrage {
-	text-align: center;
+	display: block;
 	margin: auto;
-	height: 100%;
 }
 
 .powderGif {
