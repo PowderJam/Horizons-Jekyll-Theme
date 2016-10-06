@@ -736,7 +736,10 @@ hr.team {
 .centrage {
 	position: absolute;
 	text-align: center;
-	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 .powderGif {
