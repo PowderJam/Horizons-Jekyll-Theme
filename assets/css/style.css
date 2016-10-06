@@ -741,8 +741,7 @@ hr.team {
 }
 
 .powderGif {
-	max-width: 95%;
-	height: auto;
+	padding: 1em 1em;
 }
 
 /*end*/
