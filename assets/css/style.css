@@ -514,7 +514,7 @@
 	*/
 
 	#nav > ul {
-		/* text-align: center; */
+		text-align: center;
 		/* background: #fff; */
 		margin: 0;
 	}
@@ -765,7 +765,7 @@ hr.team {
 }
 
 .logoGif {
-	height: 50px;
+	height: 100px;
 	width: auto;
 }
 
