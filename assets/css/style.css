@@ -741,7 +741,8 @@ hr.team {
 }
 
 .powderGif {
-	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 50vh;
 	transform: translateY(-50%);
 	max-width: 100%;
