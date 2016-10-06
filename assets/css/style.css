@@ -735,14 +735,9 @@ hr.team {
 
 .centrage {
 	text-align: center;
-	max-height: 100vh;
-	margin-top: 50vh;
-	transform: translateY(-50%);
 }
 
 .powderGif {
-	margin-left: 50vh;
-	transform: translateX(-50%);
 	margin-top: 50vh;
 	transform: translateY(-50%);
 	max-width: 100%;
