@@ -734,7 +734,7 @@ hr.team {
 /* Affiche */
 
 .centrage {
-	display: block;
+	text-align: center;
 	margin: auto;
 }
 
@@ -742,6 +742,8 @@ hr.team {
 	max-width: 100%;
 	height: auto;
 	padding: 2em 2em;
+	display: inline-block;
+	vertical-align: center;
 }
 
 /*end*/
