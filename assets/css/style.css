@@ -473,11 +473,11 @@
 /* Header */
 
 	#header {
-		background: #222833 url("../images/powderjunior.gif") no-repeat;
-		background-size: contain;
+		background: #222833; /* url("../images/powderjunior.gif") no-repeat; */
+		/* background-size: contain; */
 		color: #F60008;
-		margin: 2em 0;
-		padding: 6em 0;
+		/* margin: 2em 0; */
+		padding: 1em 0; /* 6em 0 */
 		background-position: left;
 		position: relative;
 		/* height: 600px; */
