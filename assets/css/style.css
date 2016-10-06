@@ -738,12 +738,23 @@ hr.team {
 	height: 100vh;
 }
 
+.date {
+	text-align: center;
+	float: bottom;
+}
+
 .powderGif {
 	margin-top: 50vh;
 	transform: translateY(-50%);
 	max-width: 100%;
 	max-height: 100%;
 	padding: 2em 2em;
+}
+
+.dateImg {
+	padding: 2em 2em;
+	max-width: 100%;
+	max-height: 100%;
 }
 
 /*end*/
