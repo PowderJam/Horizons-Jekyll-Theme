@@ -515,6 +515,7 @@
 
 	#nav > ul {
 		text-align: center;
+		vertical-align: middle;
 		/* background: #fff; */
 		margin: 0;
 	}
