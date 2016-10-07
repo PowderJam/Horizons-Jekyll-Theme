@@ -777,6 +777,7 @@ hr.team {
 }
 
 .fleche > ul {
+	float: top;
 	margin-top: 1em;
 	text-align: center;
 }
@@ -784,6 +785,7 @@ hr.team {
 	.fleche > ul > li {
 		display: inline-block;
 		margin-left: 3em;
+		vertical-align: middle;
 }
 
 
