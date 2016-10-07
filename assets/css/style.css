@@ -779,11 +779,11 @@ hr.team {
 .fleche {
 	float: top;
 	margin-top: 1em;
-	text-align: center;
 	display: inline-block;
 }
 
 .el {
+	white-space: nowrap;
 	margin-left: 3em;
 	vertical-align: middle;
 }
