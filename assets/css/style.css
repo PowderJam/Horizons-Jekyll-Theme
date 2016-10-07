@@ -776,16 +776,16 @@ hr.team {
 	width: 1070px;
 }
 
-.fleche > ul {
+.fleche {
 	float: top;
 	margin-top: 1em;
 	text-align: center;
+	display: inline-block;
 }
 
-	.fleche > ul > li {
-		display: inline-block;
-		margin-left: 3em;
-		vertical-align: middle;
+.el {
+	margin-left: 3em;
+	vertical-align: middle;
 }
 
 
