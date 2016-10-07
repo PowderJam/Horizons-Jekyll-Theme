@@ -733,7 +733,7 @@ hr.team {
   border-bottom: 1px solid #FFF;
 }
 
-/* Affiche */
+/* Affiche - page d'accueil du site */
 
 .centrage {
 	text-align: center;
@@ -790,6 +790,8 @@ hr.team {
 
 		#fleche > ul > li a {
 			display: block;
+			max-width: 100%;
+			max-height: 100%;
 		}
 			
 		#fleche > ul > li:first-child {
