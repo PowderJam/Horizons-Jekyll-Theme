@@ -776,9 +776,15 @@ hr.team {
 	width: 1070px;
 }
 
-.fleche {
-	margin-top: 2em;
+.fleche > ul {
+	margin-top: 1em;
 	text-align: center;
 }
+
+	.fleche > ul > li {
+		display: inline-block;
+		margin-left: 3em;
+}
+
 
 /*end*/
