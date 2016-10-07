@@ -780,11 +780,10 @@ hr.team {
 	margin-top: 1em;
 	display: inline-block;
 	vertical-align: middle;
-	white-space: nowrap;
+	height: 117px;
 }
 
 .el {
-	white-space: nowrap;
 	margin-left: 0.5em;
 	vertical-align: middle;
 }
