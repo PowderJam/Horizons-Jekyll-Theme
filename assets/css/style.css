@@ -781,6 +781,7 @@ hr.team {
 	display: inline-block;
 	vertical-align: middle;
 	height: 117px;
+	width: 500px;
 }
 
 .el {
