@@ -777,15 +777,15 @@ hr.team {
 }
 
 .fleche {
-	float: top;
 	margin-top: 1em;
 	display: inline-block;
 	vertical-align: middle;
+	white-space: nowrap;
 }
 
 .el {
 	white-space: nowrap;
-	margin-left: 3em;
+	margin-left: 0.5em;
 	vertical-align: middle;
 }
 
