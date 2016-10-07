@@ -780,6 +780,7 @@ hr.team {
 	float: top;
 	margin-top: 1em;
 	display: inline-block;
+	vertical-align: middle;
 }
 
 .el {
