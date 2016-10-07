@@ -776,21 +776,26 @@ hr.team {
 	width: 1070px;
 }
 
-.fleche {
-	margin-top: 1em;
-	display: inline-block;
-	vertical-align: middle;
-	height: 117px;
-	width: 500px;
-	margin-left: auto;
-	margin-right: auto;
+#fleche > ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 
-.el {
-	display: block;
-	margin-left: 0.5em;
-	vertical-align: middle;
-}
+	#fleche > ul > li {
+		margin-left: 0.5em;
+		vertical-align: middle;
+		display: inline-block;
+	}
+
+		#fleche > ul > li a {
+			display: block;
+		}
+			
+		#fleche > ul > li:first-child {
+			margin-left: 0;
+		}
+
 
 
 /*end*/
