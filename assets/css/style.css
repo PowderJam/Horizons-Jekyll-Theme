@@ -787,6 +787,7 @@ hr.team {
 		margin-left: 0.5em;
 		vertical-align: middle;
 		display: inline-block;
+		max-height: 100%;
 	}
 
 		#fleche > ul > li a {
