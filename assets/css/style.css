@@ -782,6 +782,8 @@ hr.team {
 	vertical-align: middle;
 	height: 117px;
 	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .el {
