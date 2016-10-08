@@ -766,16 +766,6 @@ hr.team {
 	padding-right: 2em;
 }
 
-.logoGif {
-	height: 100px;
-	width: auto;
-}
-
-.menu {
-	margin-left: auto;
-	width: 1070px;
-}
-
 #fleche > ul {
 	margin: 0;
 	padding: 0;
@@ -800,6 +790,31 @@ hr.team {
 			margin-left: 0;
 		}
 
+/* menu en haut des pages */
 
+.logoGif {
+	height: 100px;
+}
+
+.menu {
+	margin-left: auto;
+	width: 1070px;
+}
+
+#bandeau > ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+	#bandeau > ul > li {
+		margin-left: 0.5em;
+		vertical-align: middle;
+		display: inline-block;
+	}
+
+		#bandeau > ul > li:first-child {
+			height: 100px;
+		}
+	
 
 /*end*/
