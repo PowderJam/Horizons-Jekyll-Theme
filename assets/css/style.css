@@ -814,6 +814,7 @@ hr.team {
 
 		#bandeau > ul > li:first-child {
 			height: 100px;
+			display: block;
 		}
 	
 
