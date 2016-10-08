@@ -1,24 +1,24 @@
 
 - firstname: Sophie
   lastname: Le Grelle
-  email: 
-  website: 
-  bio: 
+  email: slegrelle@hotmail.com
+  website: http://www.sophielegrelle.com/
+  bio: illustratrice, organisatrice d'événements à la Poudrière, travaille actuellement sur des projets de livres/bd numériques...
 
 - firstname: Coline
   lastname: Sauvand
-  email: 
-  website: 
-  bio: 
+  email: colinesauvand@gmail.com
+  website: http://colinesauvand.wixsite.com/site
+  bio: illustratrice, travaille actuellement sur le jeu vidéo Miniature avec Laurent... 
 
 - firstname: Laurent
   lastname: Toulouse
-  email: 
-  website: 
-  bio: 
+  email: toulouse.lau@gmail.com
+  website: http://chrysobulle.tumblr.com/
+  bio: codeur autodidacte, travaille actuellement sur le jeu vidéo Miniature avec Coline...
 
 - firstname: Roman
   lastname: Miletitch
   email: 
   website: aporagen.com
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  bio: chercheur en IA, codeur touche-à-tout, passionné d'art numérique, organisateur d'ateliers, workshops et initiations à la programmation informatique...
