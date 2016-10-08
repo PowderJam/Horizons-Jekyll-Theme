@@ -812,7 +812,7 @@ hr.team {
 		display: inline-block;
 	}
 
-		#bandeau > ul > li:first-child {
+		#bandeau > ul > li ul {
 			height: 100px;
 			display: block;
 		}
