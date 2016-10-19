@@ -740,6 +740,10 @@ hr.team {
 	height: 100vh;
 }
 
+.centrage > a {
+	transform: translateY(-50%);
+}
+
 .date {
 	text-align: center;
 	float: bottom;
