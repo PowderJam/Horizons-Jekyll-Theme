@@ -738,10 +738,7 @@ hr.team {
 .centrage {
 	text-align: center;
 	height: 100vh;
-}
-
-.centrage > a {
-	vertical-align: middle !important;
+	vertical-align: middle;
 }
 
 .date {
