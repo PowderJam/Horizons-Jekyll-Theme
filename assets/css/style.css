@@ -741,12 +741,17 @@ hr.team {
 	vertical-align: middle;
 }
 
+.centrage a {
+	display: inline-block;
+}
+
 .date {
 	text-align: center;
 	float: bottom;
 }
 
 #powderGif {
+	display: block;
 	margin-top: 50vh;
 	transform: translateY(-50%);
 	max-width: 100%;
