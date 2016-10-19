@@ -745,7 +745,7 @@ hr.team {
 	float: bottom;
 }
 
-.powderGif {
+#powderGif {
 	margin-top: 50vh;
 	transform: translateY(-50%);
 	max-width: 100%;
