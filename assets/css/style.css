@@ -741,7 +741,7 @@ hr.team {
 }
 
 .centrage > a {
-	transform: translateY(-50%);
+	vertical-align: middle !important;
 }
 
 .date {
